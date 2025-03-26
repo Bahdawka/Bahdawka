@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Bahdawka
-- 👀 I’m interested in creating modern Website's.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning Fullstack JS.
